@@ -8,7 +8,7 @@ import os
 # # Load environment variables from .env file
 # load_dotenv()
 
-TOKEN = "6330410232:AAHz7URjg3-TbbLEE9tksotpodHFPU7WDM8"
+TOKEN = "6358168069:AAGPrsfcacrFgQyC6o9uRRYQy0PZEMHJgxI"
 # Replace 'YOUR_CHANNEL_USERNAME' with your channel's username
 CHANNEL_USERNAME = 'deals_and_discounts_2'
 
